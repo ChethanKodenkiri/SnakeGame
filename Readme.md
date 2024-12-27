@@ -21,7 +21,7 @@ A simple Snake game built using HTML5, CSS, and JavaScript. The game is played o
 
 1. Download or clone the project.
 ```bash
-git clone https://github.com/your-username/snake-game.git
+git clone https://github.com/ChethanKodenkiri/SnakeGame.git
 ```
 
 1. Open `index.html` in your browser to start the game.
