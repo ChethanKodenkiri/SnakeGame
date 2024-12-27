@@ -14,7 +14,7 @@ A simple Snake game built using HTML5, CSS, and JavaScript. The game is played o
 
 - `/snake-game`
   - `index.html`
-  - `SnakeGame`
+  - `SnakeGame.js`
   - `README.md`
 
 ## Installation
